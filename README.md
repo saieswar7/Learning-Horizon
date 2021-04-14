@@ -1,1 +1,1 @@
-# Learining-Horizon
+# Learning-Horizon
